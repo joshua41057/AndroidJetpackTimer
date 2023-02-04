@@ -1,4 +1,6 @@
 # timer
+begining of android jetpack compose
+
 make timer app in Jetpack Compose
 
 This is a simple timer. 
